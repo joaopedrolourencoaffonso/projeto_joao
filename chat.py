@@ -39,4 +39,5 @@ print("The server is ready to receive");
 while True:
     continue;
 
+
 #ConnectionAbortedError: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
